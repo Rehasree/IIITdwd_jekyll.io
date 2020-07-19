@@ -1,0 +1,11 @@
+title: Dharwad | IIITians Network
+description: IIIT Dharwad Page of IIITians Network	
+baseurl: ""
+twitter_username: 
+github_username: Rehasree
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
